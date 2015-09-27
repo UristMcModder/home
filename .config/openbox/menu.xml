@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu>
+	<menu id="minecraft-menu" label="Minecraft">
+		<item label="Feed The Beast">
+			<action name="Execute">
+				<execute>java -jar /home/hector/ftb/FTB_Launcher.jar</execute>
+			</action>
+		</item>
+		<item label="MultiMC">
+			<action name="Execute">
+				<execute>multimc5</execute>
+			</action>
+		</item>
+	</menu>
+	<menu id="custo-menu" label="Customize Da Box !">
+		<item label="Theme Selector">
+			<action name="Execute">
+				<execute>lxappearance</execute>
+			</action>
+		</item>
+		<menu id="custo-menu-42471" label="menu.xml">
+			<item label="OBMenu">
+				<action name="Execute">
+					<execute>obmenu</execute>
+				</action>
+			</item>
+			<item label="Gedit">
+				<action name="Execute">
+					<execute>gedit ~/.config/openbox/menu.xml</execute>
+				</action>
+			</item>
+		</menu>
+		<item label="rc.xml">
+			<action name="Execute">
+				<execute>gedit ~/.config/openbox/rc.xml</execute>
+			</action>
+		</item>
+		<item label="autostart">
+			<action name="Execute">
+				<execute>gedit ~/.config/openbox/autostart</execute>
+			</action>
+		</item>
+		<item label=".conkyrc">
+			<action name="Execute">
+				<execute>gedit ~/.conkyrc</execute>
+			</action>
+		</item>
+		<item label=".pypanelrc">
+			<action name="Execute">
+				<execute>gedit ~/.pypanelrc</execute>
+			</action>
+		</item>
+		<item label="Wallpaper">
+			<action name="Execute">
+				<execute>nitrogen</execute>
+			</action>
+		</item>
+		<separator/>
+		<item label="Reconfigure OpenBox">
+			<action name="Reconfigure"/>
+		</item>
+	</menu>
+	<menu id="sys-menu" label="System">
+		<item label="Log Out">
+			<action name="Execute">
+				<command>openbox --exit</command>
+			</action>
+		</item>
+		<item label="Restart">
+			<action name="Execute">
+				<command>openbox --restart</command>
+			</action>
+		</item>
+		<item label="Shutdown">
+			<action name="Execute">
+				<command>systemctl poweroff</command>
+			</action>
+		</item>
+		<item label="Reboot">
+			<action name="Execute">
+				<command>systemctl reboot</command>
+			</action>
+		</item>
+		<item label="Suspend">
+			<action name="Execute">
+				<command>systemctl suspend</command>
+			</action>
+		</item>
+		<menu execute="sudo ~/.config/openbox/wifi-pipe wlp3s0" id="wifi" label="Wi-Fi"/>
+	</menu>
+	<menu id="root-menu" label="Menu Principal">
+		<item label="Terminal">
+			<action name="Execute">
+				<execute>urxvt</execute>
+			</action>
+		</item>
+		<item label="Internet">
+			<action name="Execute">
+				<execute>firefox</execute>
+			</action>
+		</item>
+		<item label="File Manager">
+			<action name="Execute">
+				<execute>thunar</execute>
+			</action>
+		</item>
+		<item label="Text Editor">
+			<action name="Execute">
+				<execute>gedit</execute>
+			</action>
+		</item>
+		<menu id="minecraft-menu"/>
+		<separator/>
+		<menu id="custo-menu"/>
+		<separator/>
+		<menu id="sys-menu"/>
+		<separator/>
+		<item label="To Do List">
+			<action name="Execute">
+				<execute>gedit ~/todo.list</execute>
+			</action>
+		</item>
+	</menu>
+</openbox_menu>

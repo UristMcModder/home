@@ -1,0 +1,18 @@
+#!/bin/bash
+
+basedir="/sys/class/backlight/intel_backlight/"
+
+old=`cat $basedir"brightness"`
+max=`cat $basedir"max_brightness"`
+oldp=$((100 * $old / $max))
+newp=$(($oldp $1))
+new=$(($max * $newp / 100))
+if [ $newp -gt 100 ]
+then
+  new=$max 
+elif [ $newp -lt 0 ]
+then
+  new=0
+fi
+sudo chmod +x /sys/class/backlight/intel_backlight/brightness
+echo $new > $basedir"brightness"

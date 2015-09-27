@@ -1,0 +1,24 @@
+sw_volume: 94
+audio_device_state:1:default detected output
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Infected Mushroom/Vicious Delicious/01.becoming insane.mp3
+1:Infected Mushroom/Vicious Delicious/02.artillery.mp3
+2:Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3
+3:Infected Mushroom/Vicious Delicious/04.heavyweight.mp3
+4:Infected Mushroom/Vicious Delicious/05.suliman.mp3
+5:Infected Mushroom/Vicious Delicious/06.forgive me.mp3
+6:Infected Mushroom/Vicious Delicious/07.special place.mp3
+7:Infected Mushroom/Vicious Delicious/08.in front of me.mp3
+8:Infected Mushroom/Vicious Delicious/09.eat it raw.mp3
+9:Infected Mushroom/Vicious Delicious/10.change the formality.mp3
+10:Infected Mushroom/Vicious Delicious/11.before.mp3
+11:Salut C'est Cool/Le deuxième album/Simulateur de pêche.mp3
+playlist_end

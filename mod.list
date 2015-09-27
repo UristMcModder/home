@@ -1,0 +1,154 @@
+# C O R E #####################################################################
+
+AnotherOneBitesTheDust2
+Baubles
+CodeChickenCore
+CodeChickenLib
+CoFHCore
+CoFHLib
+DragonAPI
+EnderCore
+Eureka
+FarseekAPI
+Fastcraft		*
+ForgeMultipart
+iChunUtil
+ImmibisCore
+Mantle
+McJtyLib
+MicdoodleCore
+OpenModsLib
+QmunityLib
+Turbo
+
+# U I #########################################################################
+
+InventoryTweaks
+Map			!!!
+NotEnoughItems
+ |NEIAddons
+ |NEIIntegration
+NotEnoughKeys
+NotEnoughResources
+WAILA
+ |WAILA Features
+ |WAILA Harvestability
+ |WAILA Plugins
+
+# W O R L D G E N #############################################################
+
+ATG
+ExBXL
+Natura
+Streams
+TwilightForest
+
+# U T I L I T Y ###############################################################
+
+ChickenChunks
+Ding
+YetAnotherBackupMod
+
+# T E C H #####################################################################
+
+AppliedEnergistics2	
+ |ExtraCells2
+BluePower
+Buildcraft		
+ |AdditionalBuilcraftObjects
+ |AdditionalPipes
+ |BuildcraftAdditions
+ |BuildcraftCompat
+ |ChiselFacades
+ |LogisticPipes
+Calculator	
+Computercraft
+ |Computronics
+ |ExtraPeripherals
+ |ImmibisPeripherals
+ |OpenCCSensors
+ |OpenPeripheralCore
+   |OpenPeripheralAddons
+   |OpenPeripheralIntegration
+ |Peripheral++
+ExtraUtilities
+IndustrialCraft2Experimental
+ |AdvancedMachines(immibis)
+ |AdvancedSolarPanels
+ |BioMaterials
+ |ComboArmors
+ |IC2Tweaks
+ |IridiumMod
+ |GravitationSuite
+ |MFFS
+ |NuclearControl2
+ |TechReborn
+ |Ztech
+Factorization
+Forestry
+ |Binnie'sMods
+ |ForestryExtras2
+FunkyLocomotion
+Galacticraft
+ |GalacticraftPlanets
+IronChests
+JABBA
+Magneticraft
+Mekanism
+MineChem		*
+NetherOres
+OpenBlocks
+PowerConverters
+PneumaticCraft
+ |PneumaticCooking
+Railcraft
+RandomThings
+RefinedRelocation
+RFDrills
+RFTools
+RotaryCraft
+ |ReactorCraft
+ |Electricraft
+Steve'sAddons
+Steve'sCarts
+Steve'sFactoryManager
+TechnoMagi
+ThermalFoundation
+ |FluxedTrinkets
+ |RedstoneArsenal
+   |RedstoneArmory
+ |SimplyJetpacks
+ |ThermalDynamics
+ |ThermalExpansion4
+Tubes!
+WRCBE
+
+# M A G I C ###################################################################
+
+AuraCascade		*
+Bibliocraft		*
+BloodMagic
+ |BloodArsenal
+ |BloodUtils
+ |Nova
+ |Sanguimancy
+ |SanguineUtilities
+Botania
+Chromaticraft
+Witchery
+
+# F U N #######################################################################
+
+AttachableGrinder	*
+BackTools		*
+GravityGun
+Hats			*
+PortalGun
+Torched
+
+# D E S I G N #################################################################
+
+Chisel2
+CarpenterBlocks
+Decocraft		*
+MalisisDoors

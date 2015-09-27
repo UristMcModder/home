@@ -1,0 +1,497 @@
+Aug 26 12:36 : avahi: Service 'Music Player' successfully established.
+Aug 26 12:39 : avahi: Service 'Music Player' successfully established.
+Aug 26 12:39 : client: [0] opened from [::1]:50616
+Aug 26 12:42 : client: [0] closed
+Aug 26 15:32 : avahi: Service 'Music Player' successfully established.
+Aug 26 15:32 : client: [0] opened from [::1]:51802
+Aug 26 15:33 : client: [0] closed
+Aug 26 15:37 : avahi: Service 'Music Player' successfully established.
+Aug 26 15:37 : client: [0] opened from [::1]:51841
+Aug 26 15:38 : client: [0] closed
+Aug 26 15:39 : client: [1] opened from [::1]:51842
+Aug 26 15:39 : client: [1] closed
+Aug 26 15:41 : client: [2] opened from [::1]:51843
+Aug 26 15:41 : client: [2] closed
+Aug 26 15:41 : client: [3] opened from [::1]:51844
+Aug 26 15:41 : client: [3] closed
+Aug 26 15:41 : client: [4] opened from [::1]:51845
+Aug 26 15:41 : client: [4] closed
+Aug 26 15:41 : client: [5] opened from [::1]:51846
+Aug 26 15:41 : client: [5] closed
+Aug 26 15:41 : client: [6] opened from [::1]:51847
+Aug 26 15:41 : client: [6] closed
+Aug 26 15:41 : client: [7] opened from [::1]:51848
+Aug 26 15:41 : client: [7] closed
+Aug 26 15:43 : client: [8] opened from [::1]:51908
+Aug 26 15:43 : client: [8] closed
+Aug 26 15:43 : update: added Infected Mushroom/Vicious Delicious/05.suliman.mp3
+Aug 26 15:43 : update: added Infected Mushroom/Vicious Delicious/11.before.mp3
+Aug 26 15:43 : update: added Infected Mushroom/Vicious Delicious/01.becoming insane.mp3
+Aug 26 15:43 : update: added Infected Mushroom/Vicious Delicious/08.in front of me.mp3
+Aug 26 15:43 : update: added Infected Mushroom/Vicious Delicious/06.forgive me.mp3
+Aug 26 15:43 : update: added Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3
+Aug 26 15:43 : update: added Infected Mushroom/Vicious Delicious/04.heavyweight.mp3
+Aug 26 15:43 : update: added Infected Mushroom/Vicious Delicious/02.artillery.mp3
+Aug 26 15:43 : update: added Infected Mushroom/Vicious Delicious/07.special place.mp3
+Aug 26 15:43 : update: added Infected Mushroom/Vicious Delicious/10.change the formality.mp3
+Aug 26 15:43 : update: added Infected Mushroom/Vicious Delicious/09.eat it raw.mp3
+Aug 26 15:44 : client: [9] opened from [::1]:51909
+Aug 26 15:47 : client: [9] closed
+Aug 26 15:47 : client: [10] opened from [::1]:51914
+Aug 26 15:48 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 26 15:51 : client: [10] closed
+Aug 26 15:51 : client: [11] opened from [::1]:51915
+Aug 26 15:55 : player: played "Infected Mushroom/Vicious Delicious/02.artillery.mp3"
+Aug 26 16:00 : client: [12] opened from [::1]:52002
+Aug 26 16:00 : client: [13] opened from 127.0.0.1:45909
+Aug 26 16:00 : client: [12] closed
+Aug 26 16:01 : client: [13] closed
+Aug 26 16:01 : client: [14] opened from [::1]:52004
+Aug 26 16:01 : client: [15] opened from 127.0.0.1:45911
+Aug 26 16:01 : client: [14] closed
+Aug 26 16:02 : client: [15] closed
+Aug 26 16:03 : player: played "Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3"
+Aug 26 16:12 : player: played "Infected Mushroom/Vicious Delicious/04.heavyweight.mp3"
+Aug 26 16:18 : player: played "Infected Mushroom/Vicious Delicious/05.suliman.mp3"
+Aug 26 16:21 : player: played "Infected Mushroom/Vicious Delicious/06.forgive me.mp3"
+Aug 26 16:22 : client: [16] opened from [::1]:52114
+Aug 26 16:22 : client: [17] opened from 127.0.0.1:46021
+Aug 26 16:22 : client: [16] closed
+Aug 26 16:22 : client: [17] closed
+Aug 26 16:23 : client: [11] closed
+Aug 26 16:23 : client: [18] opened from [::1]:52116
+Aug 26 16:23 : client: [19] opened from 127.0.0.1:46023
+Aug 26 16:23 : client: [18] closed
+Aug 26 16:23 : client: [19] closed
+Aug 26 16:28 : client: [20] opened from [::1]:52185
+Aug 26 16:28 : client: [21] opened from 127.0.0.1:46092
+Aug 26 16:28 : client: [20] closed
+Aug 26 16:28 : player: played "Infected Mushroom/Vicious Delicious/07.special place.mp3"
+Aug 26 16:32 : client: [21] closed
+Aug 26 16:32 : client: [22] opened from [::1]:52227
+Aug 26 16:32 : client: [23] opened from 127.0.0.1:46134
+Aug 26 16:32 : client: [22] closed
+Aug 26 16:33 : player: played "Infected Mushroom/Vicious Delicious/08.in front of me.mp3"
+Aug 26 16:34 : client: [23] closed
+Aug 26 16:37 : client: [24] opened from [::1]:52230
+Aug 26 16:37 : client: [25] opened from 127.0.0.1:46137
+Aug 26 16:37 : client: [24] closed
+Aug 26 16:38 : client: [25] closed
+Aug 26 16:39 : player: played "Infected Mushroom/Vicious Delicious/09.eat it raw.mp3"
+Aug 26 16:45 : client: [26] opened from [::1]:52258
+Aug 26 16:45 : client: [27] opened from 127.0.0.1:46165
+Aug 26 16:45 : client: [26] closed
+Aug 26 16:46 : client: [27] closed
+Aug 26 16:47 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Aug 26 16:47 : client: [28] opened from [::1]:52280
+Aug 26 16:47 : client: [29] opened from 127.0.0.1:46187
+Aug 26 16:47 : client: [28] closed
+Aug 26 16:47 : client: [29] closed
+Aug 26 16:54 : player: played "Infected Mushroom/Vicious Delicious/11.before.mp3"
+Aug 26 17:05 : client: [30] opened from [::1]:52308
+Aug 26 17:05 : client: [31] opened from 127.0.0.1:46215
+Aug 26 17:05 : client: [30] closed
+Aug 26 17:05 : client: [31] closed
+Aug 26 17:06 : client: [32] opened from [::1]:52312
+Aug 26 17:06 : client: [33] opened from 127.0.0.1:46219
+Aug 26 17:06 : client: [32] closed
+Aug 26 17:07 : client: [33] closed
+Aug 26 17:10 : client: [34] opened from [::1]:52314
+Aug 26 17:10 : client: [35] opened from 127.0.0.1:46221
+Aug 26 17:10 : client: [34] closed
+Aug 26 18:21 : client: [36] opened from [::1]:53200
+Aug 26 18:27 : client: [35] closed
+Aug 26 18:29 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 26 18:32 : client: [37] opened from [::1]:53297
+Aug 26 18:32 : client: [38] opened from 127.0.0.1:47204
+Aug 26 18:32 : client: [37] closed
+Aug 26 18:33 : player: played "Infected Mushroom/Vicious Delicious/02.artillery.mp3"
+Aug 26 18:35 : client: [38] closed
+Aug 26 18:36 : client: [36] closed
+Aug 26 18:36 : client: [39] opened from [::1]:53381
+Aug 26 18:36 : client: [40] opened from 127.0.0.1:47288
+Aug 26 18:36 : client: [39] closed
+Aug 26 18:37 : client: [40] closed
+Aug 26 18:56 : client: [41] opened from [::1]:53949
+Aug 26 18:56 : client: [42] opened from 127.0.0.1:47856
+Aug 26 18:56 : client: [41] closed
+Aug 26 19:02 : client: [42] closed
+Aug 26 19:26 : avahi: Client Disconnected, will reconnect shortly
+Aug 26 19:31 : avahi: Service 'Music Player' successfully established.
+Aug 26 19:31 : client: [0] opened from [::1]:49161
+Aug 26 19:32 : player: played "Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3"
+Aug 26 19:32 : client: [0] closed
+Aug 26 19:32 : client: [1] opened from [::1]:49162
+Aug 26 19:32 : client: [2] opened from 127.0.0.1:58331
+Aug 26 19:32 : client: [1] closed
+Aug 26 19:32 : client: [2] closed
+Aug 26 19:39 : player: played "Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3"
+Aug 26 19:48 : player: played "Infected Mushroom/Vicious Delicious/04.heavyweight.mp3"
+Aug 26 19:54 : player: played "Infected Mushroom/Vicious Delicious/05.suliman.mp3"
+Aug 26 19:57 : player: played "Infected Mushroom/Vicious Delicious/06.forgive me.mp3"
+Aug 26 20:04 : player: played "Infected Mushroom/Vicious Delicious/07.special place.mp3"
+Aug 26 20:09 : player: played "Infected Mushroom/Vicious Delicious/08.in front of me.mp3"
+Aug 26 20:09 : client: [3] opened from [::1]:49412
+Aug 26 20:09 : client: [4] opened from 127.0.0.1:58581
+Aug 26 20:09 : client: [3] closed
+Aug 26 20:11 : client: [4] closed
+Aug 26 20:15 : player: played "Infected Mushroom/Vicious Delicious/09.eat it raw.mp3"
+Aug 26 20:23 : avahi: Service 'Music Player' successfully established.
+Aug 26 20:23 : client: [0] opened from [::1]:56553
+Aug 26 20:23 : client: [1] opened from 127.0.0.1:43042
+Aug 26 20:23 : client: [0] closed
+Aug 26 20:24 : client: [1] closed
+Aug 26 20:29 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Aug 26 20:36 : player: played "Infected Mushroom/Vicious Delicious/11.before.mp3"
+Aug 26 23:31 : client: [2] opened from [::1]:57785
+Aug 26 23:31 : client: [2] closed
+Aug 26 23:38 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 26 23:38 : client: [3] opened from [::1]:57952
+Aug 26 23:38 : client: [3] closed
+Aug 27 14:09 : client: [4] opened from [::1]:59292
+Aug 27 14:09 : client: [4] closed
+Aug 27 14:13 : player: played "Infected Mushroom/Vicious Delicious/02.artillery.mp3"
+Aug 27 14:21 : player: played "Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3"
+Aug 27 14:30 : player: played "Infected Mushroom/Vicious Delicious/04.heavyweight.mp3"
+Aug 27 14:33 : client: [5] opened from [::1]:59296
+Aug 27 14:33 : client: [5] closed
+Aug 27 15:47 : client: [6] opened from [::1]:59615
+Aug 27 15:47 : client: [7] opened from 127.0.0.1:46104
+Aug 27 15:47 : client: [6] closed
+Aug 27 15:50 : client: [7] closed
+Aug 27 15:50 : client: [8] opened from [::1]:59618
+Aug 27 15:50 : client: [9] opened from 127.0.0.1:46107
+Aug 27 15:50 : client: [8] closed
+Aug 27 15:52 : client: [9] closed
+Aug 28 00:10 : client: [0] opened from [::1]:44909
+Aug 28 00:10 : client: [1] opened from 127.0.0.1:49278
+Aug 28 00:10 : client: [0] closed
+Aug 28 00:10 : client: [2] opened from [::1]:44911
+Aug 28 00:10 : client: [2] closed
+Aug 28 00:10 : avahi: Service 'Music Player' successfully established.
+Aug 28 00:13 : player: played "Infected Mushroom/Vicious Delicious/05.suliman.mp3"
+Aug 28 00:17 : client: [1] closed
+Aug 28 00:17 : player: played "Infected Mushroom/Vicious Delicious/06.forgive me.mp3"
+Aug 28 00:24 : player: played "Infected Mushroom/Vicious Delicious/07.special place.mp3"
+Aug 28 00:28 : player: played "Infected Mushroom/Vicious Delicious/08.in front of me.mp3"
+Aug 28 00:35 : player: played "Infected Mushroom/Vicious Delicious/09.eat it raw.mp3"
+Aug 28 00:43 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Aug 28 00:49 : player: played "Infected Mushroom/Vicious Delicious/11.before.mp3"
+Aug 28 21:00 : avahi: Client Disconnected, will reconnect shortly
+Aug 29 16:02 : client: [0] opened from [::1]:56167
+Aug 29 16:02 : client: [1] opened from 127.0.0.1:37473
+Aug 29 16:02 : client: [0] closed
+Aug 29 16:02 : avahi: Service 'Music Player' successfully established.
+Aug 29 16:02 : client: [2] opened from [::1]:56169
+Aug 29 16:02 : client: [2] closed
+Aug 29 16:06 : client: [1] closed
+Aug 29 16:11 : client: [3] opened from [::1]:56173
+Aug 29 16:11 : client: [4] opened from 127.0.0.1:37479
+Aug 29 16:11 : client: [3] closed
+Aug 29 16:15 : client: [4] closed
+Aug 30 00:51 : client: [0] opened from [::1]:54505
+Aug 30 00:51 : client: [1] opened from [::1]:54506
+Aug 30 00:51 : client: [2] opened from 127.0.0.1:55181
+Aug 30 00:51 : client: [1] closed
+Aug 30 00:51 : avahi: Service 'Music Player' successfully established.
+Aug 30 00:57 : player: played "Infected Mushroom/Vicious Delicious/09.eat it raw.mp3"
+Aug 30 00:59 : player: played "Infected Mushroom/Vicious Delicious/09.eat it raw.mp3"
+Aug 30 00:59 : player: played "Infected Mushroom/Vicious Delicious/04.heavyweight.mp3"
+Aug 30 00:59 : player: played "Infected Mushroom/Vicious Delicious/09.eat it raw.mp3"
+Aug 30 00:59 : player: played "Infected Mushroom/Vicious Delicious/04.heavyweight.mp3"
+Aug 30 00:59 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 00:59 : player: played "Infected Mushroom/Vicious Delicious/05.suliman.mp3"
+Aug 30 00:59 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 00:59 : player: played "Infected Mushroom/Vicious Delicious/05.suliman.mp3"
+Aug 30 00:59 : player: played "Infected Mushroom/Vicious Delicious/11.before.mp3"
+Aug 30 00:59 : player: played "Infected Mushroom/Vicious Delicious/06.forgive me.mp3"
+Aug 30 00:59 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Aug 30 01:01 : client: [2] closed
+Aug 30 02:02 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 02:08 : player: played "Infected Mushroom/Vicious Delicious/05.suliman.mp3"
+Aug 30 02:15 : player: played "Infected Mushroom/Vicious Delicious/11.before.mp3"
+Aug 30 02:18 : player: played "Infected Mushroom/Vicious Delicious/06.forgive me.mp3"
+Aug 30 02:26 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Aug 30 02:31 : player: played "Infected Mushroom/Vicious Delicious/08.in front of me.mp3"
+Aug 30 02:38 : player: played "Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3"
+Aug 30 02:45 : player: played "Infected Mushroom/Vicious Delicious/07.special place.mp3"
+Aug 30 02:49 : player: played "Infected Mushroom/Vicious Delicious/02.artillery.mp3"
+Aug 30 02:51 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 02:52 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 02:52 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 02:52 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 02:52 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 02:52 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 02:52 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 02:52 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 02:52 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 02:52 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 02:52 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 02:52 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 02:52 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 02:52 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 02:52 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 02:52 : player: played "Infected Mushroom/Vicious Delicious/05.suliman.mp3"
+Aug 30 02:58 : player: played "Infected Mushroom/Vicious Delicious/09.eat it raw.mp3"
+Aug 30 03:07 : player: played "Infected Mushroom/Vicious Delicious/04.heavyweight.mp3"
+Aug 30 03:14 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 03:20 : player: played "Infected Mushroom/Vicious Delicious/05.suliman.mp3"
+Aug 30 03:27 : player: played "Infected Mushroom/Vicious Delicious/11.before.mp3"
+Aug 30 03:31 : player: played "Infected Mushroom/Vicious Delicious/06.forgive me.mp3"
+Aug 30 03:39 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Aug 30 03:43 : player: played "Infected Mushroom/Vicious Delicious/08.in front of me.mp3"
+Aug 30 03:50 : player: played "Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3"
+Aug 30 03:57 : player: played "Infected Mushroom/Vicious Delicious/07.special place.mp3"
+Aug 30 04:02 : player: played "Infected Mushroom/Vicious Delicious/02.artillery.mp3"
+Aug 30 04:12 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 04:18 : client: [3] opened from [::1]:55585
+Aug 30 04:18 : player: played "Infected Mushroom/Vicious Delicious/05.suliman.mp3"
+Aug 30 04:18 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 04:18 : player: played "Infected Mushroom/Vicious Delicious/05.suliman.mp3"
+Aug 30 04:18 : player: played "Infected Mushroom/Vicious Delicious/11.before.mp3"
+Aug 30 04:18 : player: played "Infected Mushroom/Vicious Delicious/06.forgive me.mp3"
+Aug 30 04:18 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Aug 30 04:18 : player: played "Infected Mushroom/Vicious Delicious/08.in front of me.mp3"
+Aug 30 04:22 : player: played "Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3"
+Aug 30 04:27 : client: [3] closed
+Aug 30 04:29 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 04:31 : client: [0] closed
+Aug 30 04:34 : player: played "Infected Mushroom/Vicious Delicious/02.artillery.mp3"
+Aug 30 04:34 : client: [4] opened from [::1]:55752
+Aug 30 04:36 : player: played "Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3"
+Aug 30 04:37 : client: [5] opened from [::1]:55756
+Aug 30 04:38 : client: [5] closed
+Aug 30 04:41 : client: [6] opened from [::1]:55758
+Aug 30 04:42 : client: [4] closed
+Aug 30 04:44 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Aug 30 04:50 : player: played "Infected Mushroom/Vicious Delicious/11.before.mp3"
+Aug 30 04:57 : client: [7] opened from [::1]:55846
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/09.eat it raw.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/04.heavyweight.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/05.suliman.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/11.before.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/06.forgive me.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/08.in front of me.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/07.special place.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/02.artillery.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/02.artillery.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/04.heavyweight.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/05.suliman.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/06.forgive me.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/07.special place.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/08.in front of me.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/09.eat it raw.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Aug 30 04:57 : player: played "Infected Mushroom/Vicious Delicious/11.before.mp3"
+Aug 30 04:59 : client: [6] closed
+Aug 30 05:03 : client: [8] opened from [::1]:55908
+Aug 30 05:06 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 05:06 : client: [8] closed
+Aug 30 05:07 : client: [9] opened from [::1]:55977
+Aug 30 05:07 : client: [7] closed
+Aug 30 05:07 : player: played "Infected Mushroom/Vicious Delicious/02.artillery.mp3"
+Aug 30 05:13 : client: [0] opened from [::1]:45764
+Aug 30 05:13 : client: [1] opened from 127.0.0.1:53222
+Aug 30 05:13 : client: [0] closed
+Aug 30 05:13 : avahi: Service 'Music Player' successfully established.
+Aug 30 05:13 : client: [2] opened from [::1]:45766
+Aug 30 05:13 : client: [1] closed
+Aug 30 05:17 : player: played "Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3"
+Aug 30 05:26 : player: played "Infected Mushroom/Vicious Delicious/04.heavyweight.mp3"
+Aug 30 05:29 : client: [0] opened from [::1]:49292
+Aug 30 05:29 : client: [1] opened from 127.0.0.1:46053
+Aug 30 05:29 : client: [0] closed
+Aug 30 05:29 : avahi: Service 'Music Player' successfully established.
+Aug 30 05:29 : client: [2] opened from [::1]:49294
+Aug 30 05:31 : client: [1] closed
+Aug 30 05:34 : player: played "Infected Mushroom/Vicious Delicious/05.suliman.mp3"
+Aug 30 05:37 : player: played "Infected Mushroom/Vicious Delicious/06.forgive me.mp3"
+Aug 30 05:44 : player: played "Infected Mushroom/Vicious Delicious/07.special place.mp3"
+Aug 30 05:49 : player: played "Infected Mushroom/Vicious Delicious/08.in front of me.mp3"
+Aug 30 05:55 : player: played "Infected Mushroom/Vicious Delicious/09.eat it raw.mp3"
+Aug 30 06:03 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Aug 30 06:10 : player: played "Infected Mushroom/Vicious Delicious/11.before.mp3"
+Aug 30 06:11 : client: [3] opened from [::1]:49555
+Aug 30 06:11 : client: [2] closed
+Aug 30 06:11 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 06:11 : player: played "Infected Mushroom/Vicious Delicious/08.in front of me.mp3"
+Aug 30 06:11 : player: played "Infected Mushroom/Vicious Delicious/09.eat it raw.mp3"
+Aug 30 06:11 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Aug 30 06:12 : client: [3] closed
+Aug 30 06:19 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Aug 30 06:19 : client: [4] opened from [::1]:49559
+Aug 30 06:19 : client: [4] closed
+Aug 30 19:53 : client: [5] opened from [::1]:51248
+Aug 30 19:54 : player: played "Infected Mushroom/Vicious Delicious/02.artillery.mp3"
+Aug 30 20:36 : client: [5] closed
+Aug 31 14:46 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Sep 01 10:19 : avahi: Service 'Music Player' successfully established.
+Sep 01 10:19 : client: [0] opened from [::1]:38300
+Sep 01 10:19 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Sep 01 10:24 : player: played "Infected Mushroom/Vicious Delicious/08.in front of me.mp3"
+Sep 01 10:25 : player: played "Infected Mushroom/Vicious Delicious/09.eat it raw.mp3"
+Sep 01 11:20 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Sep 01 11:24 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Sep 01 11:29 : client: [1] opened from [::1]:38344
+Sep 01 11:29 : client: [1] closed
+Sep 01 11:30 : client: [2] opened from [::1]:38345
+Sep 01 11:31 : client: [2] closed
+Sep 01 11:31 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Sep 01 11:38 : client: [0] closed
+Sep 01 11:38 : player: played "Infected Mushroom/Vicious Delicious/11.before.mp3"
+Sep 01 15:52 : avahi: Service 'Music Player' successfully established.
+Sep 01 15:52 : client: [0] opened from [::1]:40271
+Sep 01 15:52 : client: [0] closed
+Sep 01 16:00 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Sep 01 16:04 : player: played "Infected Mushroom/Vicious Delicious/02.artillery.mp3"
+Sep 01 16:12 : player: played "Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3"
+Sep 01 16:20 : player: played "Infected Mushroom/Vicious Delicious/04.heavyweight.mp3"
+Sep 01 16:27 : player: played "Infected Mushroom/Vicious Delicious/05.suliman.mp3"
+Sep 01 16:30 : player: played "Infected Mushroom/Vicious Delicious/06.forgive me.mp3"
+Sep 01 16:37 : player: played "Infected Mushroom/Vicious Delicious/07.special place.mp3"
+Sep 01 16:41 : player: played "Infected Mushroom/Vicious Delicious/08.in front of me.mp3"
+Sep 01 16:42 : client: [1] opened from [::1]:40463
+Sep 01 16:42 : client: [2] opened from 127.0.0.1:46143
+Sep 01 16:42 : client: [1] closed
+Sep 01 16:43 : client: [2] closed
+Sep 01 16:48 : player: played "Infected Mushroom/Vicious Delicious/09.eat it raw.mp3"
+Sep 01 16:50 : client: [3] opened from [::1]:40662
+Sep 01 16:50 : client: [3] closed
+Sep 01 17:37 : client: [4] opened from [::1]:41170
+Sep 01 17:37 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Sep 01 17:38 : client: [4] closed
+Sep 01 17:38 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Sep 03 22:08 : avahi: Service 'Music Player' successfully established.
+Sep 03 22:08 : client: [0] opened from [::1]:37676
+Sep 03 22:09 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Sep 03 22:09 : client: [0] closed
+Sep 03 22:10 : client: [1] opened from [::1]:37677
+Sep 03 22:10 : client: [1] closed
+Sep 03 22:12 : client: [2] opened from [::1]:37678
+Sep 03 22:12 : client: [2] closed
+Sep 03 22:12 : client: [3] opened from [::1]:37679
+Sep 03 22:12 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Sep 03 22:12 : client: [3] closed
+Sep 03 22:20 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Sep 03 22:20 : client: [4] opened from [::1]:37702
+Sep 03 22:20 : client: [4] closed
+Sep 07 15:10 : avahi: Service 'Music Player' successfully established.
+Sep 07 15:10 : client: [0] opened from [::1]:55187
+Sep 07 15:10 : player: played "Infected Mushroom/Vicious Delicious/02.artillery.mp3"
+Sep 07 15:18 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Sep 07 15:18 : player: played "Infected Mushroom/Vicious Delicious/02.artillery.mp3"
+Sep 07 15:25 : player: played "Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3"
+Sep 07 15:34 : player: played "Infected Mushroom/Vicious Delicious/04.heavyweight.mp3"
+Sep 08 14:34 : player: played "Infected Mushroom/Vicious Delicious/05.suliman.mp3"
+Sep 08 14:38 : player: played "Infected Mushroom/Vicious Delicious/06.forgive me.mp3"
+Sep 08 14:45 : player: played "Infected Mushroom/Vicious Delicious/07.special place.mp3"
+Sep 08 14:49 : player: played "Infected Mushroom/Vicious Delicious/08.in front of me.mp3"
+Sep 08 14:53 : client: [0] closed
+Sep 08 14:54 : client: [1] opened from [::1]:55188
+Sep 08 14:56 : player: played "Infected Mushroom/Vicious Delicious/09.eat it raw.mp3"
+Sep 08 14:56 : client: [1] closed
+Sep 08 15:03 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Sep 08 15:10 : player: played "Infected Mushroom/Vicious Delicious/11.before.mp3"
+Sep 08 19:21 : client: [2] opened from [::1]:55219
+Sep 08 19:21 : client: [2] closed
+Sep 08 19:26 : client: [3] opened from [::1]:55220
+Sep 08 19:26 : client: [3] closed
+Sep 08 20:22 : client: [4] opened from [::1]:55221
+Sep 08 20:22 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Sep 08 20:22 : client: [4] closed
+Sep 08 20:22 : client: [5] opened from [::1]:55222
+Sep 08 20:22 : client: [5] closed
+Sep 08 20:22 : client: [6] opened from [::1]:55223
+Sep 08 20:22 : client: [6] closed
+Sep 08 20:23 : client: [7] opened from [::1]:55224
+Sep 08 20:23 : client: [7] closed
+Sep 08 20:23 : client: [8] opened from [::1]:55225
+Sep 08 20:23 : player: played "Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3"
+Sep 08 20:23 : player: played "Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3"
+Sep 08 20:23 : client: [8] closed
+Sep 08 20:27 : client: [9] opened from [::1]:55226
+Sep 08 20:27 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Sep 08 20:27 : player: played "Infected Mushroom/Vicious Delicious/09.eat it raw.mp3"
+Sep 08 20:41 : client: [9] closed
+Sep 08 20:41 : client: [10] opened from [::1]:55227
+Sep 08 20:41 : client: [10] closed
+Sep 08 20:57 : client: [11] opened from [::1]:55237
+Sep 08 20:57 : client: [12] opened from 127.0.0.1:55308
+Sep 08 20:57 : client: [11] closed
+Sep 08 20:57 : client: [12] closed
+Sep 08 23:04 : avahi: Client Disconnected, will reconnect shortly
+Sep 13 00:27 : avahi: Service 'Music Player' successfully established.
+Sep 13 00:27 : client: [0] opened from [::1]:47320
+Sep 13 00:27 : client: [0] closed
+Sep 13 00:29 : client: [1] opened from [::1]:47325
+Sep 13 00:29 : update: added Salut C'est Cool/Le deuxième album/Simulateur de pêche.mp3
+Sep 13 00:29 : client: [1] closed
+Sep 13 00:29 : client: [2] opened from [::1]:47328
+Sep 13 00:29 : client: [2] closed
+Sep 13 00:29 : client: [3] opened from [::1]:47329
+Sep 13 00:29 : player: played "Infected Mushroom/Vicious Delicious/11.before.mp3"
+Sep 13 00:35 : client: [3] closed
+Sep 13 00:36 : player: played "Salut C'est Cool/Le deuxième album/Simulateur de pêche.mp3"
+Sep 13 00:37 : avahi: Client Disconnected, will reconnect shortly
+Sep 15 07:58 : client: [0] opened from [::1]:54758
+Sep 15 07:58 : client: [1] opened from 127.0.0.1:39100
+Sep 15 07:58 : client: [0] closed
+Sep 15 07:58 : avahi: Service 'Music Player' successfully established.
+Sep 15 07:58 : client: [2] opened from [::1]:54760
+Sep 15 07:58 : player: played "Salut C'est Cool/Le deuxième album/Simulateur de pêche.mp3"
+Sep 15 08:01 : client: [1] closed
+Sep 15 08:04 : player: played "Salut C'est Cool/Le deuxième album/Simulateur de pêche.mp3"
+Sep 15 08:07 : client: [2] closed
+Sep 15 08:07 : client: [3] opened from [::1]:54761
+Sep 15 08:09 : client: [3] closed
+Sep 15 08:09 : client: [4] opened from [::1]:54762
+Sep 15 08:11 : player: played "Salut C'est Cool/Le deuxième album/Simulateur de pêche.mp3"
+Sep 15 08:13 : client: [4] closed
+Sep 15 08:13 : client: [5] opened from [::1]:54763
+Sep 15 08:14 : client: [5] closed
+Sep 15 08:14 : client: [6] opened from [::1]:54764
+Sep 15 08:14 : client: [6] closed
+Sep 15 08:15 : client: [7] opened from [::1]:54765
+Sep 15 08:15 : client: [8] opened from 127.0.0.1:39107
+Sep 15 08:15 : client: [7] closed
+Sep 15 08:15 : client: [9] opened from [::1]:54767
+Sep 15 08:15 : player: played "Infected Mushroom/Vicious Delicious/08.in front of me.mp3"
+Sep 15 08:16 : client: [8] closed
+Sep 15 08:16 : player: played "Infected Mushroom/Vicious Delicious/09.eat it raw.mp3"
+Sep 15 08:17 : client: [9] closed
+Sep 15 08:17 : client: [10] opened from [::1]:54768
+Sep 15 17:01 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Sep 15 17:07 : player: played "Salut C'est Cool/Le deuxième album/Simulateur de pêche.mp3"
+Sep 15 17:08 : player: played "Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3"
+Sep 15 17:09 : client: [10] closed
+Sep 15 17:11 : player: played "Infected Mushroom/Vicious Delicious/06.forgive me.mp3"
+Sep 15 17:14 : player: played "Infected Mushroom/Vicious Delicious/07.special place.mp3"
+Sep 16 08:21 : avahi: Service 'Music Player' successfully established.
+Sep 16 08:21 : client: [0] opened from [::1]:56397
+Sep 16 08:21 : player: played "Infected Mushroom/Vicious Delicious/07.special place.mp3"
+Sep 16 08:27 : player: played "Salut C'est Cool/Le deuxième album/Simulateur de pêche.mp3"
+Sep 16 17:14 : client: [0] closed
+Sep 16 17:17 : player: played "Salut C'est Cool/Le deuxième album/Simulateur de pêche.mp3"
+Sep 19 21:29 : avahi: Service 'Music Player' successfully established.
+Sep 19 21:29 : client: [0] opened from [::1]:37064
+Sep 19 21:36 : player: played "Salut C'est Cool/Le deuxième album/Simulateur de pêche.mp3"
+Sep 19 21:43 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Sep 19 21:44 : player: played "Infected Mushroom/Vicious Delicious/02.artillery.mp3"
+Sep 19 21:51 : player: played "Infected Mushroom/Vicious Delicious/03.vicious delicious.mp3"
+Sep 19 22:00 : player: played "Infected Mushroom/Vicious Delicious/04.heavyweight.mp3"
+Sep 19 22:06 : player: played "Infected Mushroom/Vicious Delicious/05.suliman.mp3"
+Sep 19 22:09 : player: played "Infected Mushroom/Vicious Delicious/06.forgive me.mp3"
+Sep 19 22:14 : player: played "Infected Mushroom/Vicious Delicious/07.special place.mp3"
+Sep 19 22:14 : player: played "Infected Mushroom/Vicious Delicious/01.becoming insane.mp3"
+Sep 19 22:21 : player: played "Infected Mushroom/Vicious Delicious/07.special place.mp3"
+Sep 19 22:25 : player: played "Infected Mushroom/Vicious Delicious/08.in front of me.mp3"
+Sep 19 22:32 : player: played "Infected Mushroom/Vicious Delicious/09.eat it raw.mp3"
+Sep 19 22:39 : player: played "Infected Mushroom/Vicious Delicious/10.change the formality.mp3"
+Sep 19 22:46 : player: played "Infected Mushroom/Vicious Delicious/11.before.mp3"
+Sep 19 22:53 : player: played "Salut C'est Cool/Le deuxième album/Simulateur de pêche.mp3"
+Sep 20 01:11 : client: [0] closed
